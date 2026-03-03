@@ -1,1 +1,1 @@
-autoupdate fix i hope thats why it's 2.32 not 2.4
+we have added support for health, speed and jump and a huge update we have added support for spetacte cool right? well thats it for this update thanks for using EXE-6 Client Build
