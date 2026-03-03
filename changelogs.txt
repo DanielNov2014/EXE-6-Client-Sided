@@ -1,1 +1,1 @@
-just an test
+should of fixed the changelogs and some werid autoupdate bugs
