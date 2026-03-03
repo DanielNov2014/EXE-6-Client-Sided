@@ -1,1 +1,1 @@
-attempting to fix the hd admin access
+should hopefully fix the hd admin bugs
