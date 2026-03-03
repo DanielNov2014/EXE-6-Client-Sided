@@ -1,1 +1,1 @@
-i have added so when the update gets detected i untag every player to make a higher succes rate when loading the players that was it a small update
+minor fix added return to the speed, jump and health becuz it was saying that you cant use action on your self this got fixed now lol
