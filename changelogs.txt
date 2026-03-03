@@ -1,1 +1,1 @@
-disabled hd admin checks for better access
+attempting to fix the hd admin access
