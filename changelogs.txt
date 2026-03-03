@@ -1,1 +1,1 @@
-minor fix added return to the speed, jump and health becuz it was saying that you cant use action on your self this got fixed now lol
+i will attempt to make a fall back scanner for HD admin
