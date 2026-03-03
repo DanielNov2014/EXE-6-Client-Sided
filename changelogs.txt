@@ -1,1 +1,1 @@
-i will attempt to make a fall back scanner for HD admin
+disabled hd admin checks for better access
