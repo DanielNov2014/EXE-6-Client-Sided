@@ -1,1 +1,1 @@
-should of fixed the changelogs and some werid autoupdate bugs
+i have fixed a critcal bug where the entire modal_handler script didnt work i made an syntax error lol thats it
