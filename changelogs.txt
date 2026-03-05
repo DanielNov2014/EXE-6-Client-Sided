@@ -1,2 +1,1 @@
-Update v2.46
-- Minor bug fixes and performance improvements.
+bug fixes i have attempted to remove the annoying tag bug which can stop players from loading
