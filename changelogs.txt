@@ -1,1 +1,2 @@
-HUGE UPDATE!!! we have added full support for custom commands using EXE 6 Custom commands API this took a long time. this is really huge becuz it makes the development way easyier that was it for this update enjoy.
+Update v2.81
+- Minor bug fixes and performance improvements.
