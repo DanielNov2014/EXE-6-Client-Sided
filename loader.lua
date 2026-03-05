@@ -1,5 +1,5 @@
-local github_raw_url = "https://github.com/DanielNov2014/EXE-6-Client-Sided/raw/refs/heads/main/%E2%80%8EExe6Panel.rbxm"
-local file_name = "Exe6Panel.rbxm"
+local github_raw_url = "https://github.com/DanielNov2014/EXE-6-Client-Sided/raw/refs/heads/main/Exe6PanelNewest.rbxm"
+local file_name = "Exe6PanelNewest.rbxm"
 
 print("Downloading .rbxm from GitHub...")
 writefile(file_name, game:HttpGet(github_raw_url))
