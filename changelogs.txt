@@ -1,1 +1,2 @@
-should hopefully fix the hd admin bugs
+Update v2.46
+- Minor bug fixes and performance improvements.
