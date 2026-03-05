@@ -1,1 +1,1 @@
-tag bug fixs.
+added kill command for profile actions and if your in the game Run or die theres a backdoor letting you kill anyone.
