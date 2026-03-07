@@ -1,1 +1,2 @@
-attempting to fix get profile offline feature
+Update v2.64
+- Minor bug fixes and performance improvements.
