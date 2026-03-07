@@ -1,1 +1,1 @@
-who knew a "." could make an entire script yeild forever i learned that the hard way in my custom commands script
+fixed some HD admin bugs for this update.
