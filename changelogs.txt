@@ -1,2 +1,2 @@
-Update v2.57
+Update v2.588
 - Minor bug fixes and performance improvements.
