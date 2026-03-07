@@ -1,1 +1,2 @@
-attempting to fix the share logs button
+Update v2.952
+- Minor bug fixes and performance improvements.
