@@ -1,1 +1,1 @@
-added chat logs becuz why not?
+attempting to add a share chat logs button to upload the logs to google
