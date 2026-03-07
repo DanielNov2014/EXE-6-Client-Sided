@@ -1,2 +1,1 @@
-Update v2.62
-- Minor bug fixes and performance improvements.
+attempting to fix get profile offline feature
