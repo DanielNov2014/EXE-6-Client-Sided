@@ -1,1 +1,1 @@
-attempting to add a share chat logs button to upload the logs to google
+attempting to fix the share logs button
