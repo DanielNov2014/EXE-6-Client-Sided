@@ -1,1 +1,1 @@
-focused on adding fly and unfly commands.
+made teh fly opitions visible for other players profile.
