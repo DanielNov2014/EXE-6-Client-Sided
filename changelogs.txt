@@ -1,1 +1,2 @@
-fixed closing profiles and added serverside script that you can now use for the best power. expect more server sided features.
+Update v2.71
+- Minor bug fixes and performance improvements.
