@@ -1,1 +1,1 @@
-fixed bugs like fly and unfly not working as pinned actions. and fixed the annoying bug where custom commands wouldt load and an attempt to fix offline player search was made. everything works fine in studio which is annoying making these bugs way harder to fix then they should of been. that was it
+attempted to add serversided stuff nothing speicel yet
