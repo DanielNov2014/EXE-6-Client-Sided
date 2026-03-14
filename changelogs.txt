@@ -1,1 +1,1 @@
-attempted to add serversided stuff nothing speicel yet
+added kick and ban to the serverside serverside script coming soon
