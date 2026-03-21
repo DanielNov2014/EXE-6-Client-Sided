@@ -1,1 +1,2 @@
-attempting to fix team connect
+Update v2.71
+- Minor bug fixes and performance improvements.
