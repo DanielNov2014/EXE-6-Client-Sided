@@ -1,1 +1,2 @@
-¨
+Update v2.7
+- Minor bug fixes and performance improvements.
