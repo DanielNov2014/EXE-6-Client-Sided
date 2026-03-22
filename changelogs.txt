@@ -1,1 +1,1 @@
-added join group command.
+added couch bring to the profile actions.
