@@ -1,1 +1,1 @@
-fixed annoument bug when exe 6 is loading
+added join group command.
