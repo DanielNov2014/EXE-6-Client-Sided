@@ -1,1 +1,1 @@
-attempting to fix script loader.
+added better loading handler.
