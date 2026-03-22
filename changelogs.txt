@@ -1,1 +1,2 @@
-added auto type to spelling bee.
+Update v2.83
+- Minor bug fixes and performance improvements.
