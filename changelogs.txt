@@ -1,1 +1,1 @@
-added couch bring to the profile actions.
+added auto type to spelling bee.
