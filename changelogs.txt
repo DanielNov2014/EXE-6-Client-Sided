@@ -1,2 +1,1 @@
-Update v2.7
-- Minor bug fixes and performance improvements.
+added /reload command if exe 6 gets stuck please use the intended /reload in chat.
