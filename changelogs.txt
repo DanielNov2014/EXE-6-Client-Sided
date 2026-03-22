@@ -1,1 +1,1 @@
-added better loading handler.
+fixed annoument bug when exe 6 is loading
