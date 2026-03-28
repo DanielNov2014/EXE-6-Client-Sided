@@ -1,1 +1,1 @@
-added reload command
+fixed loading bug i left some left over code lol
