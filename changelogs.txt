@@ -1,1 +1,2 @@
-Added better feedback for HD admin commands (currently only bring) fixed werid HumanoidRootPart bug
+Update v2.8.1
+- Minor bug fixes and performance improvements.
