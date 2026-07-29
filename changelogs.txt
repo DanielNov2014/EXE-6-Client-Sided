@@ -1,1 +1,1 @@
-fixed roastbot
+Added better feedback for HD admin commands (currently only bring) fixed werid HumanoidRootPart bug
