@@ -1,1 +1,1 @@
-added more support for commands now fly unfly shapeshift all work with HD admin! and added new command called fling
+attempted to add more support for hd admin
