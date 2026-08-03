@@ -1,1 +1,2 @@
-fixed infinte yeild error
+Update v2.8
+- Minor bug fixes and performance improvements.
